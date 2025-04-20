@@ -1,5 +1,5 @@
 #!/bin/bash
 
 mkdir -v src
-mkdir -v out
+mkdir -v export
 mkdir -v references

@@ -15,7 +15,7 @@ Folder structure:
 ├── src/
 │   ├── design.f3d
 │   └── design.step
-├── out/
+├── export/
 │   ├── design.3mf
 │   └── design.stl
 ├── references/
